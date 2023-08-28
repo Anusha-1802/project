@@ -1,5 +1,4 @@
-Project: 1 A Job Ready Bootcamp in C++, DSA and IOT MySirG
-Number Shifting Game
+Project 1:- Number Shifting Game
 
 #include <stdio.h>
 #include <stdlib.h>
